@@ -87,6 +87,6 @@
 
 **🎉 Conclusion**
 
-**This project demonstrates end-to-end Power BI capabilities — from data preparation and modeling to advanced DAX and dynamic visualization — offering a robust analytical tool for NYC taxi trip data insights.**
+**This project demonstrates end-to-end Power BI capabilities from data preparation and modeling to advanced DAX and dynamic visualization offering a robust analytical tool for NYC taxi trip data insights.**
 
 **🔗 Let’s dive into the data and uncover powerful insights!**
